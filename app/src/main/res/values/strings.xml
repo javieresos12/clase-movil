@@ -11,6 +11,10 @@
     <string name="multiplicacion">Multiplicacion</string>
     <string name="division">Division</string>
     <string name="seleccione">Seleccione una operacion</string>
+    <string name="error_1">digite numero uno</string>
+    <string name="error_2">digite numero 2</string>
+    <string name="error_3">Sleccione una operacion</string>
+    <string name="error_4">el numero dos no puede ser cero</string>
     <string-array name="opciones">
         <item>@string/seleccione</item>
         <item>@string/suma</item>

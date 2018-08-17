@@ -12,4 +12,8 @@
     <string name="suma">adition</string>
     <string name="multiplicacion">Mmultiplication</string>
     <string name="seleccione">Choose an operation</string>
+    <string name="error_1">type number one</string>
+    <string name="error_2">type number two</string>
+    <string name="error_3">choose an Operation</string>
+    <string name="error_4">Numbere two cannot be zero</string>
 </resources>
