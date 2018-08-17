@@ -3,7 +3,13 @@
     <string name="app_name">Calculadora</string>
     <string name="primer_numero">First number</string>
     <string name="segundo_numero">second Number</string>
-    <string name="guardar">save</string>
+    <string name="calcular">save</string>
     <string name="limpiar">clear</string>
     <string name="titulo">Calculator</string>
+    <string name="division">division</string>
+    <string name="hola">hello</string>
+    <string name="Multiplicacion">multiplication</string>
+    <string name="suma">adition</string>
+    <string name="multiplicacion">Mmultiplication</string>
+    <string name="seleccione">Choose an operation</string>
 </resources>
