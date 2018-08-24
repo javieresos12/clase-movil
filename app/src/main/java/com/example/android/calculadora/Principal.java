@@ -48,18 +48,18 @@ public class Principal extends AppCompatActivity {
             num1= Double.parseDouble(n1.getText().toString());
             num2=Double.parseDouble(n2.getText().toString());
             switch (opcion){
-                case 0:
+                case 1:
                     resultado = Metodos.sumar(num1, num2);
                     break;
 
-                case 1:
+                case 2:
                     resultado = Metodos.restar(num1, num2);
                     break;
-                case 2:
+                case 3:
                     resultado = Metodos.multiplicar(num1, num2);
 
                     break;
-                case 3:
+                case 4:
                     resultado= Metodos.division(num1, num2);
                     break;
 
